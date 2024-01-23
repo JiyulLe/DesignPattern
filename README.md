@@ -1,3 +1,5 @@
+![image](https://github.com/JiyulLe/DesignPattern/assets/148319292/d2f07f69-3fea-45cb-a7b8-5e5777522298)
+
 # 디자인 패턴
 
 여러 소프트웨어 개발자들이 공통적으로 겪는 문제를 해결하기 위해 만들어졌습니다.
